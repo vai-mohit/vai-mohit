@@ -5,6 +5,6 @@
                        <B>LinkedIn -> www.linkedin.com/in/vai-mohit</B>
 
 <!---
-vai-mohit/vai-mohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vai-mohit/vai-mohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profils.
 You can click the Preview link to take a look at your changes.
 --->
